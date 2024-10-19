@@ -42,7 +42,7 @@ We welcome contributions! Follow these steps to get involved:
 ## 🧑‍💻 Collaborators
 - Collaborator 1 - [GitHub](https://github.com/sakshipowar1612)
 - Collaborator 2 - [GitHub](https://github.com/MNP2003)
-- Collaborator 3 - 
+- Collaborator 3 - [GitHub](https://github.com/Vaishnavivp22)
 
 
 
