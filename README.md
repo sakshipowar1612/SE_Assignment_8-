@@ -9,13 +9,13 @@
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40"> Overview
  
-> "This project is a reporting system for buses, allowing users to report bus conditions, assign issues, and fix bugs collaboratively using GitHub workflows."
+> "web-based data collection system built using the Flask framework, designed to gather and store user information in an Excel file. The system enables users to submit various details such as their name, email, age, date of birth, program of study, graduation year, and phone number through a simple HTML form. The project ensures that the data is captured and saved efficiently in an organized format, which can later be used for analysis or record-keeping."
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40"> Features
 
-- Feature 1: Real-time bus reporting system.
-- Feature 2: Assign issues and track bugs through GitHub Issues.
-- Feature 3: Create branches for feature development.
+- Feature 1: Automatic creation of the Excel file if it doesn’t exist.
+- Feature 2: Storing user-submitted form data in a structured and organized manner in an Excel file.
+- Feature 3: Ability to extend the form with additional fields or validations as needed.
 - Feature 4: Pull requests for code reviews and collaboration.
 
 
