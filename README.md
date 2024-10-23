@@ -25,8 +25,16 @@
 /project-root<br>
 └── templates<br>
 └── README.md<br>
-└── app.py
+└── app.py<br>
+└── requirements.txt
 
+## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="35"> Setup
+1. Clone the Repository<br>
+   $ git clone https://github.com/sakshipowar1612/SE_Assignment_8-.git
+2. Installing dependencies<br>
+   $ pip install -r requirements.txt
+3. To run flash app<br>
+   $ python app.py
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="25" />  Contribution
