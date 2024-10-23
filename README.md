@@ -37,6 +37,31 @@
    $ python app.py
 
 
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="40">  Usage
+Steps to Use the Application
+
+
+1. Start the Flask Application
+- Run the Flask app by executing the following command in your terminal:<br>
+      $ python app.py<br>
+- By default, the application will be accessible at http://127.0.0.1:5000/.
+
+  
+2. Access the Form
+- Open a browser and navigate to http://127.0.0.1:5000/.<br>
+- You will see a form with fields such as Name, Email, Age, Date of Birth (DOB), Program of Study, Graduation Year, and Phone Number.
+
+  
+3. Fill and Submit the Form
+- Fill in the details and click the "Submit" button.<br>
+- Upon submission, the form data is saved to an Excel file (data.xlsx).
+
+
+4. View the Results
+- After submitting the form, a message will be displayed: "Form submitted successfully and data saved to Excel!".<br>
+- You can find the Excel file named data.xlsx in the root of your project directory. The data from each form submission will be appended as a new row in this file
+
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="25" />  Contribution
 We welcome contributions! Follow these steps to get involved:
 
